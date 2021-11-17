@@ -1,0 +1,12 @@
+C:\Devs1\SecFinance\SecFinance.Domain\bin\Debug\net5.0\SecFinance.Domain.deps.json
+C:\Devs1\SecFinance\SecFinance.Domain\bin\Debug\net5.0\SecFinance.Domain.dll
+C:\Devs1\SecFinance\SecFinance.Domain\bin\Debug\net5.0\ref\SecFinance.Domain.dll
+C:\Devs1\SecFinance\SecFinance.Domain\bin\Debug\net5.0\SecFinance.Domain.pdb
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\SecFinance.Domain.csproj.AssemblyReference.cache
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\SecFinance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\SecFinance.Domain.AssemblyInfoInputs.cache
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\SecFinance.Domain.AssemblyInfo.cs
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\SecFinance.Domain.csproj.CoreCompileInputs.cache
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\SecFinance.Domain.dll
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\ref\SecFinance.Domain.dll
+C:\Devs1\SecFinance\SecFinance.Domain\obj\Debug\net5.0\SecFinance.Domain.pdb
