@@ -1,16 +1,14 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
 
 namespace SecFinance.DA.SecurityData
 {
-    public interface ISecUnit
+    public interface ISecUnit : IDisposable
     {
         ISecurityRepo SecurityRepo { get; }
 
-
-
-
         void Complete();
         Task CompleteAsync();
-        void Dispose();
+        
     }
 }

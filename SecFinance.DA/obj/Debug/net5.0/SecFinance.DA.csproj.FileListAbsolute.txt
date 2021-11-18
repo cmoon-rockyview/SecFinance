@@ -15,4 +15,3 @@ C:\Devs1\SecFinance\SecFinance.DA\obj\Debug\net5.0\SecFinance.DA.pdb
 C:\Devs1\SecFinance\SecFinance.DA\obj\Debug\net5.0\SecFinance.DA.genruntimeconfig.cache
 C:\Devs1\SecFinance\SecFinance.DA\bin\Debug\net5.0\SecFinance.Domain.dll
 C:\Devs1\SecFinance\SecFinance.DA\bin\Debug\net5.0\SecFinance.Domain.pdb
-C:\Devs1\SecFinance\SecFinance.DA\obj\Debug\net5.0\SecFinance.DA.csproj.CopyComplete
