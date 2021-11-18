@@ -45,7 +45,6 @@ namespace SecFinance.DA.SecurityData
                 Console.Write(ex.ToString());
             }
 
-
         }
 
         public void Dispose()
